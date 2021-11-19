@@ -1,4 +1,4 @@
-package util
+package ego
 
 func RandomStr() string {
 	return "edmund string"
