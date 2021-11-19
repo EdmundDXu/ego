@@ -1,4 +1,4 @@
-module eeego
+module github.com/EdmundDXu/ego
 
 go 1.16
 
